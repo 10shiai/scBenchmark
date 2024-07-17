@@ -1,3 +1,3 @@
 ## scBenchmark
 
-Tool that can serve as a benchmarking platform for newly developed prediction algorithms against the most relevant existing methods such as PepCNN, Peptimap, SPRINT-Seq, SPRINT-Str, PepBind, Visual, PepNN-Seq, PepBCL, and SPPPred.
+Tool that can serve as a benchmarking platform for newly developed prediction methods against the most relevant existing methods such as CellTypist, SingleR, ScType, ScBert, ScCatch, scGPT, SC3, FindClusters, and SCINA.
